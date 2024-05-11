@@ -148,4 +148,3 @@ For assistance with this assignment, you may refer to the following resources:
 🔗 [Multithreading in Java on Geeks for Geeks](https://www.geeksforgeeks.org/multithreading-in-java/)
 
 Also, you can find a wealth of knowledge from various YouTube courses. They can be a great source of learning. Alongside, joining discussions on forums and reading helpful documents can also be beneficial.
-
